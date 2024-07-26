@@ -1,0 +1,15 @@
+created a dictionary with every node, and a tuple of every node said node connects to + the distance to that between them
+get children returns every a dictionary like the one above for a given node
+
+2 search algorithims however slightly diff cause its a wieghted graph (each move is not equal, some moves cost more than others)
+
+cant use BFS for Dijkstra's alg because its wieghted graph only difference between two algs is Dijkstras alg node[0] (what the heap uses to sort nodes) is depth,
+however A* node[0] is estimated of depth+estimate
+
+Steps:
+
+Start with copying A* alg into both algs because they both use heaps and depth calc 
+depth is distance travelled (sum of all distances between travelled nodes)
+estimate is distance demo calcd formula 
+
+goal would probably be 
