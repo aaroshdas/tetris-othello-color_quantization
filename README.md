@@ -1,16 +1,16 @@
-soduku files -  solves sodoku puzzles using forward looking
+1. soduku files -  solves sodoku puzzles using forward looking
 <br/>
 
-a star train routes - calculates fastest train route between two cities using A* algorithms
+2. a star train routes - calculates fastest train route between two cities using A* algorithms
 <br/>
 
-genetic algorithm decode english phrases - encodes english phrases then decodes english phrases using a genetic algorithm
+3. genetic algorithm decode english phrases - encodes english phrases then decodes english phrases using a genetic algorithm
 <br/>
 
-k-means-photo project - color quantization using k means
+4. k-means photo project - color quantization using k means
 <br/>
 
-othello - min/max algorithm (oth-ai-new-ab.py) that plays othello against proffesor
+5. othello - min/max algorithm (oth-ai-new-ab.py) that plays othello against proffesor
 <br/>
 
-tetris - genetic algorithm that plays tetris with scores up to 1 million
+6. tetris - genetic algorithm that plays tetris with scores up to 1 million
